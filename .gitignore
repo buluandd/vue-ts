@@ -12,12 +12,14 @@ dist
 dist-ssr
 *.local
 .vscode
+.cz-config.js
+.commitlint.config.js
+prettier.config.js
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-.vscode
 .DS_Store
 *.suo
 *.ntvs*
